@@ -1,3 +1,6 @@
 /node_modules
 /coverage
 build/
+/src
+/.vscode/*
+!/.vscode/launch_example.json
